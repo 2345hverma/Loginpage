@@ -1,2 +1,22 @@
-# him
-THis is the repository
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Transparent Login Form</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="loginBox">
+<img src="user.png" class="user">
+<h2>log In Here</h2>
+<form>
+<p>Email</p>
+<input type="text"name=""placeholder="Enter Email">
+<p>Password</p>
+<input type="password" name="" placeholder=".....">
+<input type="submit" name="" value="Sign In">
+<a href="#">Forget password</a>
+</form>
+</div>
+</body>
+</html>
